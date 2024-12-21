@@ -25,7 +25,7 @@ export default function Recomendado({ imagenes }) {
   return (
     /* Carrusel con imagenes de los instrumentos recomendados */
     <section className={estilos.recomendados}>
-      <h2>Recomendado</h2>
+      <h2>Recomendados</h2>
       <div>
         <button onClick={anteriorImagen}>
           <svg

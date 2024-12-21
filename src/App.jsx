@@ -32,7 +32,7 @@ export default function App() {
           <nav>
             <ul className={estilos.navbar}>
               <li>
-                <Link to="/">Inicio</Link>
+                <Link to="/Proyecto-Final-React">Inicio</Link>
               </li>
               <li>
                 <Link to="/conocenos">Conocenos</Link>
