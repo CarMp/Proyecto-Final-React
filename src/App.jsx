@@ -90,7 +90,10 @@ export default function App() {
           </div>
           <div>
             <a href="/">
-              <img src="/iconos/fcbk.png" alt="Facebook" />
+              <img
+                src={`${import.meta.env.BASE_URL}assets/iconos/fcbk.png`}
+                alt="Facebook"
+              />
               Facebook
             </a>
             <a href="/">
