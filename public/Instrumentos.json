@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ibanez Artcore AF75-BS",
+        "imagen": "/InstrumentosMiniatura/IbanezArtcoreAF75-BS.png",
+        "precio": 10960,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "nombre": "Gibson Les Paul Studio Cherry Sunburst",
+        "imagen": "/InstrumentosMiniatura/GibsonLesPaulStudioCherrySunburst.png",
+        "precio": 36999,
+        "stock": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Fender Japan JB62 E Series",
+        "imagen": "/InstrumentosMiniatura/FenderJapanJB623TSJ.png",
+        "precio": 25999,
+        "stock": 5
+    },
+    {
+        "id": 4,
+        "nombre": "YAMAHA Set Stage Custom Birch Raven Black - 7 pzs",
+        "imagen": "/InstrumentosMiniatura/YAMAHA_SetStageCustomBirchRavenBlack.png",
+        "precio": 3000,
+        "stock": 3
+    },
+    {
+        "id": 5,
+        "nombre": "YAMAHA Violín 1/2 V3-SKA",
+        "imagen": "/InstrumentosMiniatura/YAMAHAViolin1-2V3-SKA.png",
+        "precio": 6999,
+        "stock": 7
+    }
+]
