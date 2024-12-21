@@ -47,7 +47,7 @@ export default function App() {
           {/* Usuario */}
           <div className={estilos.usuario}>
             <div onClick={toggleMenu} className={estilos.usuario}>
-              <img width="30" src="/iconos/sojiunn.jpg" />
+              <img width="30" src="\iconos\sojiunn.jpg" />
               <span>Usuario</span>
               {menuVisible && (
                 <div className={estilos.menu}>
